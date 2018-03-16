@@ -1,8 +1,12 @@
 body{
     text-align: center;
-    background: black;
+    background-image: url("http://dash.ga.co/assets/anna-bg.png");
     color: white;
     font-family: helvetica;
+    background-size: auto;
+    background-repeat: no-repeat;
+    
+    
 }
 
 img{
