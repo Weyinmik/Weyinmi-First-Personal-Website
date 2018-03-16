@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url("https://images.pexels.com/photos/62269/pexels-photo-62269.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+    background-image: url("https://images.pexels.com/photos/872958/pexels-photo-872958.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
     color: black;
     font-family: helvetica;
     background-size: cover;
@@ -24,6 +24,6 @@ input{
     font-size: 18px;
 }
 input[type="submit"]{
-    color:white;
+    color:black;
     background-color:red ;
 }
