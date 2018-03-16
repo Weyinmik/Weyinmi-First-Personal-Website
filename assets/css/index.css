@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url("http://dash.ga.co/assets/anna-bg.png");
+    background-image: url("https://images.pexels.com/photos/19068/mirror-light-black-glass.jpg?w=940&h=650&auto=compress&cs=tinysrgb");
     color: white;
     font-family: helvetica;
     background-size: cover;
@@ -22,4 +22,8 @@ input{
     border: 0;
     padding: 10px;
     font-size: 18px;
+}
+input[type="submit"]{
+    color:white;
+    background-color:red ;
 }
